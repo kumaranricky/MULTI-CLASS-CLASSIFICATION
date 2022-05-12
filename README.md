@@ -20,7 +20,7 @@ The number of classifier models depends on the classification technique we are a
 •One vs. One:- N-class instances then N* (N-1)/2 binary classifier models.\
 •The Confusion matrix is easy to derive but complex to understand.
 
-## Algorithm
+##<br/><br/><br/> Algorithm
 1.define dataset with centers=3.\
 2.summarize dataset shape.\
 3.ummarize observations by class label.\
@@ -56,5 +56,5 @@ pyplot.show()
 ```
 ## Output:
 ![WhatsApp Image 2022-04-19 at 7 41 50 PM](https://user-images.githubusercontent.com/75243072/164023987-640e5757-4c94-49ff-ab15-89a5c42d2686.jpeg)
-## Result:
+## <br/><br/><br/>Result:
 Thus the python program to implement the multi class classification was implemented successfully.
