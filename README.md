@@ -56,5 +56,5 @@ pyplot.show()
 ```
 ## <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>Output:
 ![WhatsApp Image 2022-04-19 at 7 41 50 PM](https://user-images.githubusercontent.com/75243072/164023987-640e5757-4c94-49ff-ab15-89a5c42d2686.jpeg)
-## <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>Result:
+## <br/><br/><br/><br/><br/><br/><br/><br/><br/>Result:
 Thus the python program to implement the multi class classification was implemented successfully.
